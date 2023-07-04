@@ -1,6 +1,6 @@
 <div align="center">
 
-# ◐ &nbsp; CodeXpert &nbsp; ◑
+# ◐ &nbsp; ClipXpert &nbsp; ◑
 
 **Easily replace your clipboard with custom hotkey.**
 
@@ -13,7 +13,7 @@
 
 ## ⚡️ Usage
 1. Install all requirements with install(.bat/.sh) file. Or do it manually with `pip install -r requirements.txt`
-2. Launch the program with `python CodeXpert.py` or directly via .py file.
+2. Launch the program with `python ClipXpert.py` or directly via .py file.
 3. Enjoy.
 
 ## How it Works
