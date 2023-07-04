@@ -22,3 +22,7 @@ The program uses the "pyperclip" library to replace the clipboard
 The program takes the text from the Entry and uses it as a variable for further substitution
 
 On the launch button, the program also checks the text of the hotkey variable so that it can then use this key to create a hotkey to replace the clipboard
+
+## Screenshots
+![root = ct.CTk()](example_images_ghub/example1.jpg)
+![root = ct.CTk()](example_images_ghub/example2.jpg)
