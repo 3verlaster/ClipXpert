@@ -29,17 +29,6 @@ def show_root(icon, item):
     icon.stop()
     root.after(0,root.deiconify)
 
-# def withdraw_root():
-#     try: 
-#         root.withdraw()
-#         image = Image.open("fake_icon.ico")
-#         menu = (item('Выйти', quit_root), item('Показать', show_root))
-#         icon = pystray.Icon("name", image, "ClipXpert", menu)
-#         icon.run()
-#     except:
-#         pass
-
-
 def paste_text():
     str_text_to_paste = text_to_paste.get()
     copy(str_text_to_paste)
